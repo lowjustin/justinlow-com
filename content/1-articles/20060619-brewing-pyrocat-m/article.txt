@@ -1,0 +1,49 @@
+Excerpt: Pyrocat-HD has been my general-use film developer, and it gives great results in medium format. It renders tones very nicely, and is great for images taken in low-light.
+
+----
+
+Title: Brewing Pyrocat-M
+
+----
+
+Text: 
+
+Here are a number of quick notes on Pyrocat-M, a variation of -HD. The formula given by Sandy King follows:
+
+To mix Stock Solution A,
+
+|Distilled water at 50°C|750ml|
+|Metol|2.5g|
+|Sodium Metabisulfite|10.0g|
+|Catechol|50.0g|
+|Distilled water to|1000ml|
+
+Stock Solution B is a 75% solution of Potassium Carbonate,
+
+|Distilled water|750ml|
+|Potassium Carbonate|750.0g|
+|Distilled water to|1000ml|
+
+That'll make a liter of stock solution each. I made up 100ml of each instead, dividing each amount by 10. The -M variation is supposed to add a touch of sharpness over -HD.
+
+Solution A was easy to mix. Just add the various components in the order above. A slightly yellow solution resulted. Do be cautious when handling the Metol though. I experienced a mild irritation when mixing the powder, but it went away after scrubbing down. I have no problems with it in liquid form.
+
+The Potassium Carbonate (K ~2~ CO ~3~) is tricky to store; my stock was packed in 250g sachets. It's highly deliquescent, which poses a problem when partial quantities are used. There's a slight vapor in the sachet now, but I don't think it'll adversely affect the rest of the stock. Sodium Carbonate is far easier to handle.
+
+When mixed into solution, K ~2~ CO ~3~ appears to be rather cloudy, but it clears up in 30 minutes or so. That's apparently normal.
+
+I stored them in brown glass bottles with a stopper. Apparently shelf life is 6 months or so. Using it at 1:1:100 dilutions should yield 40 rolls. It's extremely economical to use at around 10 cents a roll.
+
+I developed a roll of Fomapan 100 in Pyrocat-M mixed to 1:2:100 dilutions as I prefer shorter developing times. 5m30s was a pretty good starting point, and produced rich negatives with good density. Looks like they'll print easily. For Fomapan 400, 7 minutes works well for me.
+
+----
+
+Tags: guides,photography,darkroom,film,developer
+
+----
+
+Status: archived
+
+----
+
+Date: 2006-06-19

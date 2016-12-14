@@ -1,0 +1,46 @@
+Excerpt: A friend asked me to look over his Canonet as the shutter could not open. The viewfinder was also fogged. Here are some of my notes regarding the disassembly and cleaning.
+
+----
+
+Title: Canonet 28 Repair Notes
+
+----
+
+Text: 
+
+*Removing Top Plate*
+Remove the three screws around the top plate (sides and back).
+
+Undo the rewind knob by placing a chopstick into the shaft fork and unscrewing the knob. Do not close the back after this.
+
+Lastly, remove the wind lever. Use a rubber piece to unscrew (anti-clockwise) the retaining screw over the lever. It helps to clean the surface with some alcohol to give a better grip. Do not lose the two thin metal rings under the screw. Remove the lever and the thicker ring at its base.
+
+The top plate slides off easily, and no parts should spring out.
+
+*Cleaning Viewfinder*
+On my sample, the viewfinder was fogged on the inner surfaces of the outermost glass as well as the two outer surfaces of the viewfinder. I used Windex and a Q-tip to clean these four surfaces.
+
+This cleaning improved viewfinder brightness and contrast tremendously. It is now very easy to compose and focus.
+
+Note that the blue viewfinder/yellow rangefinder tint is normal.
+
+*Flushing the Shutter Blades*
+Open the back of the camera. Use a lens spanner to unscrew the retaining ring surrounding the rear element. The entire rear element will lift off, giving access to the shutter. There is a ring of foam surrounding the rear glass, so be careful there as it can be messy.
+
+In the end, I did not manage to get the shutter working. I believe it is a problem with the electronics and not so much the mechanical function of the camera.
+
+Still, I hope that you find my notes helpful. As a disclaimer, you are following these instructions at your own risk.
+
+If anyone has tips on getting a shutter that won’t open to work, please drop me a line. Thanks!
+
+----
+
+Tags: guides,repair,photography,cameras,canon
+
+----
+
+Status: archived
+
+----
+
+Date: 2007-04-14

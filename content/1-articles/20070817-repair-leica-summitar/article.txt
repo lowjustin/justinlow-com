@@ -1,0 +1,55 @@
+Excerpt: I recently purchased a Summitar which had fogging on the inner elements, and a stiff focusing ring. I partially disassembled the lens to clean and lubricate it; here are some notes I made along the way.
+
+----
+
+Title: Repair: Leica Summitar
+
+----
+
+Text: 
+
+This Summitar is a later production with the hexagonal iris. I can't say for certain if the earlier models are similar in disassembly. In any case, please don't hold me responsible if you mess up your lens.
+
+For lubricating the focusing ring, you will need a 1.5mm slotted screwdriver, toothpicks, lighter fluid and a suitable grease. If you just need to clean the inner elements, just cotton buds and lens cleaning fluid will suffice, and maybe a thick rubber band.
+
+*Lubricating the Focusing Ring*
+Firstly, unscrew the three screws on the mount, as shown in this picture.
+
+(image: 1149633531_264c233aa3_o.jpg)
+
+Once the three screws are out, back the mount out slowly, and carefully note where the threads separate. For my lens, they separated where the index was at the 5 meter mark. You should end up with something like this.
+
+(image: 1149634265_823f0ccdaf_o.jpg)
+
+Now, the helical is probably full of half a century's worth of dried up grease, so you'll have to clean it out. Apply lighter fluid sparingly to soften the grease, and run through the threads with a sharpened toothpick to remove the old grease.
+
+Once that is done, apply the new grease to the helical. There are many suggestions as to what grease should be used, but I've used lithium grease which seems to work well. You don't have to apply too much, just enough to coat the threads. Thick blobs are not recommended.
+
+Lastly, replace the mount, starting where the threads separated. If all goes well, the index should indicate infinity when the infinity lock button engages. Replace the three mount screws. Test your lens.
+
+*Cleaning the Inner Elements*
+Before we start, please note that the coatings on the inside elements can be very delicate and easily scratched. Please be careful when cleaning. No excessive force should be used.
+
+Start by unscrewing the front of the lens. It can be quite tight sometimes, and this is where the thick rubber band will help. The red line in the picture below indicates where the 'head' will separate.
+
+(image: 1150479062_f3e0a8bcc2_o.jpg)
+
+Again, note where the threads separate. It's not as critical as for the focusing mount though. You should arrive at this.
+
+(image: 1150480160_e7d64afc94_o.jpg)
+
+Use a cotton bud and lens cleaning fluid to clean the inner elements. Sometimes the haze is persistent, and I would adopt a conservative approach and not try to remove it, for risk of damaging the coating.
+
+Be careful, and be sure not to get any stray fibers or lint trapped in the iris blades. Reassembly is just screwing on the 'head'; the aperture index should line up with 2 or 16 if the aperture is fully opened or closed. Tighten the 'head' using the rubber band and you're good to go.
+
+----
+
+Tags: guides,repair,photography,lenses,leica
+
+----
+
+Status: archived
+
+----
+
+Date: 2007-08-17

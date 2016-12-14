@@ -1,0 +1,75 @@
+Excerpt: I really like the Minolta CLE--it's very compact and quiet. Terrific companion to a Leica M. Unfortunately, they are getting on in age, and some have hazy viewfinders. Fortunately, that is easily resolved. The CLE's top plate is easily removed, and today we shall see how.
+
+----
+
+Title: Repair: Minolta CLE
+
+----
+
+Text: 
+
+*Tools Needed*
+Screwdrivers (#00 and #000 Philips)
+16mm flexiclamp
+Spanner wrench (with flat and pointed tips)
+Toothpick
+Small sliver of sticky tape
+
+(image: 1283708014_bb3446f8a5_o.jpg)
+
+*Hot Shoe*
+First, remove the hot-shoe cover by inserting the toothpick into the small recess near the contacts. Gently pry the cover upwards, and pull it backwards.
+
+You will reveal 4 screws under the cover, 3 of them are dull brass, one of them shiny chrome (bottom left). Remove the chrome screw only.
+
+(image: 1282845353_c396d5f2cd_o.jpg)
+
+*Shutter Release and Speed Selector*
+Using a spanner wrench (flat tips), remove the retaining ring around the release button. *Hold the button down*, as there is a spring underneath and you don't want it to jump out. 
+
+Next, pull out the whole shutter speed dial. Try to get it out as a single unit, if not you have to piece back the ISO selector, and the speed markings. That's not too hard, and you may want to clean the copper ring under the ISO selector.
+
+(image: 1282842941_1bdf9cbe47_o.jpg)
+
+*Film Advance Lever*
+Take your 16mm flexiclamp and gently unscrew the capping screw. Turn clockwise to loosen, anti-clockwise to tighten. _(UPDATE: Robert J. contacted me, informing me that this screw is reverse threaded, and I have updated my directions accordingly. I apologise for any confusion.)_ You will reveal a chrome retaining screw. Remove this screw with the spanner wrench. Lift off the entire lever. There are some more screws underneath so try to get them out together.
+
+You will see a retaining piece under the lever, secured by two small screws. Remove these screws and the retainer.
+
+(image: 1283705920_d233deca58_o.jpg)
+
+*Others*
+Remove the small screw in the lens mount, at the 12 o'clock position. Also, using the spanner wrench, remove the ring to the side of the viewfinder (for the remote release).
+
+(image: 1283706220_9a1689b3f7_o.jpg)
+
+(image: 1282843191_1a7c94af75_o.jpg)
+
+Lastly, paste a piece of tape on the silver button that locks the shutter speed dial at 'A' to prevent it from dropping out when you remove the cover.
+
+(image: 1282844069_01398d316e_o.jpg)
+
+You should now be able to slide the top cover off. Do that gently and you'll gain access to the inside. The top cover is plastic--something that I didn't know before.
+
+(image: 1283706986_69bf852276_o.jpg)
+
+(image: 1283707408_b905f845cf_o.jpg)
+
+*Cleaning*
+The cloudiness is usually on the inside glass surfaces of the top cover, so clean that with some lens cleaning fluid and a cotton swab. You might have to swab the viewfinder surfaces themselves, but do not touch the rangefinder mirror as that is front-coated and delicate.
+
+Reassembly is simple if you've followed my steps. Just reverse the process, keeping in mind the holes in the retaining rings that should match with the appropriate protrusions.
+
+The CLE is pretty friendly to work on. Go slowly and gently, being careful not to damage any parts, and you should be fine. If you wreck your camera, please don't blame me.
+
+----
+
+Tags: guides,repair,photography,cameras,minolta
+
+----
+
+Status: archived
+
+----
+
+Date: 2007-08-31

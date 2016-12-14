@@ -1,0 +1,52 @@
+Excerpt: Sometimes I find that a single-action airbrush is more convenient than a double-action. Converting a double-action airbrush to single-action is a simple task, here's how.
+
+----
+
+Title: Double-Action Airbrush to Single Action
+
+----
+
+Text: 
+
+*Tools Needed*
+Spanner wrench (with flat tips)
+
+There are two basic types of airbrush actions: single and double. 
+
+Without going into too much detail, single-action means that the trigger on the airbrush only controls the amount of paint being released; the air flow is fixed.
+
+Double-action airbrush triggers control both the amount of paint, and the amount of air—in most cases, press down for air, pull back for paint.
+
+With a weak air compressor or pump, sometimes a double-action airbrush is not needed, and a single-action is far simpler and more convenient.
+
+This is the valve on my double-action airbrush that controls the amount of air going in. The spring-loaded pin in the center is actuated by the airbrush trigger. Press down the trigger and the pin moves downwards, opening the valve.
+
+(image: 1387067168_6b6748fe35_o.jpg)
+
+You can see the pin more clearly in this picture, along with the retaining ring inside the shell.
+
+(image: 1386169257_cc9db074ca_o.jpg)
+
+Using the spanner wrench, unscrew the retaining ring slowly. Remember that there is a spring behind, so take care not to have the whole pin/spring/retainer flying off.
+
+(image: 1386169569_fd309dd4ff_o.jpg)
+
+When you're done, you should have these two parts separated. Place the removed parts in a safe place so that you can replace them should you decide to reverse the conversion.
+
+(image: 1386170091_aa60cb8673_o.jpg)
+
+Good luck!
+
+P.S. If you don't have a spanner wrench handy, a pair of tweezers or dividers will probably work too.
+
+----
+
+Tags: guides,repair,airbrushes
+
+----
+
+Status: archived
+
+----
+
+Date: 2007-09-15

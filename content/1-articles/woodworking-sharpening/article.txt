@@ -1,0 +1,56 @@
+Title: Woodworking: Sharpening
+
+----
+
+Date: 2016-08-20
+
+----
+
+Status: draft
+
+----
+
+Text: 
+
+(image: dsc02626-2.jpg)
+
+I would like to write a series of articles documenting my approach to woodworking. This article on sharpening shall be the first in that series.
+
+This article will approach these topics:
+
+- Tools to be sharpened
+- Grinding and honing
+- Micro-bevels
+- Sharpening media
+- Honing guides
+- Steel types
+
+##  Tools to be sharpened
+The tools I sharpen most often are chisels and plane blades. 
+
+They are fairly similar, with a flat face, and a bevel, and differ mainly in width. I prefer adding a slight curvature to my plane blades, while the chisels are sharpened straight across.
+
+## Grinding and honing
+In the process of sharpening, I would like to distinguish between grinding and honing. 
+
+I would describe grinding as a rough procedure, removing a substantial amount of material, with the intent of making the step of honing easier. I currently grind my primary bevels using sandpaper that has been adhered to a glass plate (more on that later). I may consider moving to a bench grinder or wet stone grinder (e.g. a Tormek machine) in future. I typically begin grinding on 80 grit, and finish grinding with 220 grit to reduce the scratch depth.
+
+Honing is the stage in which I put the "final" edge on the blade
+
+## Micro-bevels
+
+
+
+##  Sharpening media
+
+##  Honing guides
+
+## Steel types
+
+----
+
+Excerpt: I would like to write a series of articles documenting my approach to woodworking. This article on sharpening shall be the first in that series.
+
+----
+
+Tags: woodworking,sharpening

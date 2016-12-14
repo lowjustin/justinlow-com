@@ -1,0 +1,41 @@
+Excerpt: Here's a quick how-to for the removal of the Leica CL's top plate, for viewfinder cleaning or rangefinder adjustment.
+
+----
+
+Title: Repair: Leica CL
+
+----
+
+Text: 
+
+Note: I'm lacking photos at the moment. Will get them up as time allows.
+
+*Tools Needed*
+Screwdrivers (#00 Philips)
+Flexiclamp (10mm and ~14mm)
+
+The Leica CL top plate is surprisingly easy to remove. It is secured at 4 points which are easily accessed with a minimum of tools.
+
+First, remove the film advance lever. You will need to use a flexiclamp of a suitable size. I did not have one, so I padded my 16mm flexiclamp with some rubber hosing. That worked. The actual diameter needed is around 14mm. Unscrew (counter-clockwise)the flat screw holding the lever to the body. Remove the lever and rings, noting the order of the washers underneath.
+
+Second, remove the collar around the shutter release. The 10mm flexiclamp fits snugly. Unscrew counter-clockwise and remove.
+
+Third, there is a screw underneath the wind lever. Using the #00 Philips screwdriver, remove it.
+
+Lastly, there are a pair of screws securing the top strap lug in place. These are accessed from the inside of the body. So take off the back, and look at the side where the film canister ought to go. You should see two screws close to the edge. Remove these with the #00 Philips screwdriver. The strap lug should fall out if you tilt the camera to the side.
+
+At this point, you have removed all the parts retaining the top plate to the body, so go ahead and slide it off.
+
+Good luck doing whatever it is you wanted to do inside! And as a disclaimer, you follow these instructions at your own risk. ;)
+
+----
+
+Tags: guides,repair,photography,cameras,leica
+
+----
+
+Status: archived
+
+----
+
+Date: 2008-04-02

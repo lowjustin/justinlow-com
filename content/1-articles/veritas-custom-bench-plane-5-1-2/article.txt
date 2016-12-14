@@ -1,0 +1,45 @@
+Title: Veritas Custom Bench Plane 5½
+
+----
+
+Date: 2016-07-20
+
+----
+
+Status: draft
+
+----
+
+Text: 
+
+I bought this from eBay for a nice discount, because there was some surface rust.
+
+I didn't have any options in. The configuration, and here's what I got.
+
+55° frog, O1 blade, tall front knob, medium (?) standard tote.
+
+The plane arrived, and it look like it hadn't been used. Aside from the surface rust, the sole was pristine, and the blade was the dull grey that comes from the Veritas factory.
+
+I like how Veritas laps the back of the blades, but the primary bevel is usually not ground to the edge. The plane is hence not ready to go "out of the box".
+
+I intend to use this plane as a jointer and long smoother, so I cut a 30° bevel and a minute camber.
+
+Upon taking it to a narrow billet of cherry, the plane skipped and chattered terribly, messing up the surface. 
+
+I fiddled with the various settings: mouth closed tight, mouth open wide, cap iron set close to the edge, cap iron set far from the edge, shallow cutting depth, deep cutting depth, tighten down lever cap, loosen up lever cap.
+
+Nothing worked and I was frustrated with the plane.
+
+I thought it could be the 55° frog, but I could make a good cut with my small smoother set to a 57° cutting angle.
+
+I could not remove the frog easily, but eventually managed. After resetting the frog, the plane started working properly.
+
+I am quite amazed that this worked. It's the first time I've seen the frog create such a problem.
+
+----
+
+Excerpt: 
+
+----
+
+Tags: 

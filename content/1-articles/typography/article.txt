@@ -1,0 +1,46 @@
+Excerpt: ## Header 2
+
+----
+
+Title: Typography Header 1
+
+----
+
+Text: 
+
+## Header 2
+### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
+
+(image: DSC08515.jpg caption: Fusce auctor venenatis tellus, vitae pharetra quam.)
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis ornare tortor, ut porttitor leo. Fusce id congue quam. Nullam a tortor a lorem (link: # text: vehicula placerat). Duis lacus purus, sagittis vitae lacus lobortis, finibus consectetur nisi. Mauris in turpis eget enim faucibus molestie in vel purus. Duis quis ligula suscipit, porttitor ligula quis, iaculis massa. Vivamus porta cursus sapien, ac pulvinar enim dapibus nec.
+
+Suspendisse **nec pulvinar** purus, a aliquet massa. Nullam _varius sagittis_ molestie. Maecenas eleifend varius augue vehicula malesuada. Vestibulum quis magna semper, molestie orci tincidunt, auctor enim. Nunc eu urna tincidunt velit consequat fringilla eget at sapien. Curabitur ut turpis mi.
+
+(lang: ja) 䩎きゃ綩䣊ぽ ぬタヤ姌觩 せ卤䰩 ねデュ, びゃ代り ぽこ 檤䩣お儦軣 ピェ勣秺ポ鰦 涧はỦめ騟 キむみ獣す ぬタヤ姌觩 䦨げリ゜レぐ グィゑ睢 襪ひ 䤤尦 キむみ獣す みょ仯府ぢょちゅ げリ゜レ, 廨いチュ 諧ドゥ ほあゞ監䤤 くヰき饃氨 にゅぺ杦ど堦 ぢフィ觚绣蛣 驚祧やッ覜 儦軣栨 襊よ 饺鰣 骥埣䛤 う鋨饟果ま ぎゃが䤣え䩦, 坨蟤褦䋧ゲ こ㤣椥ツィ諤 ぬタヤ姌觩 驌	て ゲ涧は
+
+- Homer
+- Marge
+- Bart
+- Lisa
+- Maggie
+
+1. Homer
+2. Marge
+3. Bart
+4. Lisa
+5. Maggie
+
+> Design is not just what it looks like and feels like.
+> Design is how it works.
+
+----
+
+Tags: 
+
+----
+
+Status: archived

@@ -1,0 +1,33 @@
+Excerpt: 
+
+----
+
+Title: Glass "Carrier" for Canoscan 9950F
+
+----
+
+Text: 
+
+I’ve had a Canoscan 9950F for a while, and I’ve had a problem getting sharp negative scans with the film carrier that came with it.
+
+What I noticed was that the film was curving along it’s length, so the center of the film was further from the focal distance than the edges. The film carrier had trouble keeping the film flat.
+
+I tried a couple of things to see if the situation would improve. Orienting the film emulsion up (base touching scanner glass) didn’t give a significant improvement; instead it brought a bigger problem: newton rings.
+
+Having always used a glass carrier in my enlarger, and having always obtained good results with it, I bought an 8×10” sheet of matt glass. After taping the edges to prevent cuts, I tried it out.
+
+The difference in the quality is dramatic. No issues with newton rings because of the matt glass, and the texture of which isn’t projected onto the image either.
+
+The only issue I can see with this solution is that there are an extra 2 surfaces on which dust may settle. I’m used to that, however, after working with my glass carrier in the enlarger.
+
+----
+
+Tags: guides,photography,film,scanning
+
+----
+
+Status: archived
+
+----
+
+Date: 2006-02-05

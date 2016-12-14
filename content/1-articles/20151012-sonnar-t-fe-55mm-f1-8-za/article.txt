@@ -1,0 +1,49 @@
+Title: Sonnar T* FE 55mm F1.8 ZA
+
+----
+
+Text: 
+
+This upcoming article examines the Sonnar T* FE 55mm F1.8 ZA lens paired with a Sony A7 camera. It documents my impressions of the lens, and how autofocus fits my process.
+
+I've used this lens for two weeks. Bought it to provide a comparison between native and adapted lenses. Investigate relationship between sensor stack and unoptimized lenses.
+
+(image: dsc00459.jpg)
+
+Tested with cats!
+
+## Ergonomics
+- Lens is a bit bulky, but lightweight
+- Manual focus ring works well, acceleration curve is nice
+- Wish there was an aperture ring
+- Have not used the lens hood, adds too much bulk
+
+## Image quality
+- It is sharp
+- Artifacts in out of focus highlights, probably due to molded aspheric elements
+- Out of focus areas mostly pleasant
+
+## Focusing
+- Wish it could focus closer
+- Autofocus is quiet, fast and accurate in good light, hunts in low light
+- Unsure how to best use autofocus yet
+
+(image: dsc00459-2.jpg)
+
+100% crop of focused area.
+
+----
+
+Excerpt: This upcoming article examines the Sonnar T* FE 55mm F1.8 ZA. It discusses my impressions of this lens, and how autofocus fits my process.
+
+----
+
+Tags: photography,review,lenses,zeiss,sony
+
+----
+
+Status: draft
+
+----
+
+Date: 2015-10-12

@@ -1,0 +1,39 @@
+Excerpt: I purchased a used Konica-Minolta Dimage Scan Dual IV (DSIV) yesterday; here are some of my impressions after scanning a few rolls.
+
+----
+
+Title: Konica-Minolta Scan Dual IV
+
+----
+
+Text: 
+
+I used to own a Scan Dual III (DSIII), but I sold it to buy a Canoscan 9950F in order to scan medium format. I found the 9950F lacking when it came to scanning 35mm, hence the DSIV.
+
+Externally, the DSIV looks similar to it’s predecessor, the DSIII. The major difference in the specifications probably would be the increased resolution (3200dpi, from 2820dpi).
+
+I find the difference to be slight. For me, the greatest improvements in this update are the design of the film strip holder, and the increased scanning speed.
+
+The film strip holder is now a single hinged tray, rather than the two piece affair of the DSIII. It holds the film much better, and with guides to secure even curly film strips. The image area has been increased, so you can pretty much scan to the edge of each image. The DSIII cropped off the edges.
+
+Speed-wise, whilst it took me a minute or so per image on the DSIII, I now spend less than half that on the DSIV. I’d never have imagined it to be so dramatic.
+
+The DSIV is still lacking in some areas though. The one that affects me most would be the noise in the shadow areas. This hasn’t been improved much from the DSIII, and even multi-sampling does little to alleviate the problem.
+
+I’m not too bothered by the lack of a hardware dust reduction system as I scan mainly B&W film, which is not compatible with the ICE functions of more expensive scanners.
+
+Overall, I’m still quite satisfied with the DSIV. It’s sharpness is about the same as the DSIII (although KM claims updated optics), and the performance is much better than the Canoscan 9950F.
+
+I’ll update my review once I’ve had more experience with the scanner.
+
+----
+
+Tags: guides,photography,film,scanning
+
+----
+
+Status: archived
+
+----
+
+Date: 2006-07-08
